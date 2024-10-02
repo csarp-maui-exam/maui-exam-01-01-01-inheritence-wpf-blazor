@@ -5,3 +5,6 @@ A feladat megoldását a következő részfeladatok megoldásával valósítsa m
  - készítsen konzol alkalmazást Student és Teacher osztályok példányosításával
  - készítsen egy projektet a ViewModel-ek részére, készítse el a BaseViewModel-t és a Student és Person osztályok esetén is a megfelelő ViewModel réteget
  - készítse el a desktop, mobil és web alkalmazást diák és tanár adatok bevitelének megvalósítása
+
+
+![UML](https://github.com/csarp-maui-exam/maui-exam-01-01-01-inheritence-wpf-blazor/blob/main/inheritence-sutdent-managment.jpg "A feladat")
